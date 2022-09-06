@@ -1,0 +1,22 @@
+[
+    {
+        "feature": {
+            "name": "Category Definition",
+            "brief": "Provide the ability to define the rules that define a part of a collection",
+            "items": [
+                "Define by Example",
+                "Attribute rules"
+            ]
+        }
+    },
+    {
+        "feature": {
+            "name": "Graph",
+            "brief": "Design the domain in terms of graph db ala neo4j",
+            "items": [
+                "support car info",
+                "support collection categories"
+            ]
+        }
+    }
+]
